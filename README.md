@@ -1,2 +1,1 @@
-# SpringMVCWithDB
-SpringMVCWithDB
+# Spring MVC With DB
